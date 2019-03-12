@@ -1,5 +1,5 @@
 class DataViewer < Formula
-	desc "General purpose imperative build system"
+	desc "Viewer for images and associated data"
 	homepage "https://github.com/rajamukherji/data-viewer"
 	url "https://github.com/rajamukherji/data-viewer.git", :tag => "v1.0.0"
 	depends_on "wrapl/rabs/rabs" => :build
