@@ -1,7 +1,7 @@
 class DataViewer < Formula
 	desc "Viewer for images and associated data"
 	homepage "https://github.com/rajamukherji/data-viewer"
-	url "https://github.com/rajamukherji/data-viewer.git", :tag => "v1.0.4"
+	url "https://github.com/rajamukherji/data-viewer.git", :tag => "v1.0.5"
 	depends_on "wrapl/rabs/rabs" => :build
 	depends_on "pkg-config" => :build
 	depends_on "bdw-gc"
